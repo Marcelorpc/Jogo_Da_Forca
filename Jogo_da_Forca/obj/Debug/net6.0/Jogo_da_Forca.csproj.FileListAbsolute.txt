@@ -1,0 +1,15 @@
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\net6.0\Jogo_da_Forca.exe
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\net6.0\Jogo_da_Forca.deps.json
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\net6.0\Jogo_da_Forca.runtimeconfig.json
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\net6.0\Jogo_da_Forca.dll
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\bin\Debug\net6.0\Jogo_da_Forca.pdb
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\Jogo_da_Forca.csproj.AssemblyReference.cache
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\Jogo_da_Forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\Jogo_da_Forca.AssemblyInfoInputs.cache
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\Jogo_da_Forca.AssemblyInfo.cs
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\Jogo_da_Forca.csproj.CoreCompileInputs.cache
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\Jogo_da_Forca.dll
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\refint\Jogo_da_Forca.dll
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\Jogo_da_Forca.pdb
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\Jogo_da_Forca.genruntimeconfig.cache
+C:\Csharp\Jogo_da_Forca\Jogo_da_Forca\obj\Debug\net6.0\ref\Jogo_da_Forca.dll
